@@ -12,6 +12,7 @@
 
 # Array
 * ![Icon_Array_Enum](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/12c6efea-7a87-4a20-8299-ad8b08fe170a) `![Icon_Array_Enum](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/12c6efea-7a87-4a20-8299-ad8b08fe170a)`
+* ![Icon_Array_Struct](https://github.com/Klian326/UnrealDocResources/assets/48155922/e4580ed5-4507-4262-bc9a-7b46f49c633a) `![Icon_Array_Struct](https://github.com/Klian326/UnrealDocResources/assets/48155922/e4580ed5-4507-4262-bc9a-7b46f49c633a)`
 * ![Icon_Array_Pointer](https://github.com/Klian326/UnrealDocResources/assets/48155922/f5ae5f56-8a01-4a77-bd6a-bb6bfbf0ca5d) `![Icon_Array_Pointer](https://github.com/Klian326/UnrealDocResources/assets/48155922/f5ae5f56-8a01-4a77-bd6a-bb6bfbf0ca5d)`
 
 
