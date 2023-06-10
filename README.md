@@ -24,6 +24,7 @@ v͟o͟i͟d͟
 
 
 ## Set
+* ![Icon_Set_enum](https://github.com/Klian326/UnrealDocResources/assets/48155922/d7c15e76-1234-48c7-b606-a97a53d4ccfd) `![Icon_Set_enum](https://github.com/Klian326/UnrealDocResources/assets/48155922/d7c15e76-1234-48c7-b606-a97a53d4ccfd)`
 * ![Icon_Set_Name](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/aa504237-6062-4c8e-94e2-6325d46d62cb) `![Icon_Set_Name](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/aa504237-6062-4c8e-94e2-6325d46d62cb)`
 
 ## Map
