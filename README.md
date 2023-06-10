@@ -18,3 +18,6 @@
 
 ## Set
 * ![Icon_Set_Name](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/aa504237-6062-4c8e-94e2-6325d46d62cb) `![Icon_Set_Name](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/aa504237-6062-4c8e-94e2-6325d46d62cb)`
+
+## Map
+* ![Icon_Map_Pointer-float](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/5afc7458-f000-48f4-bdd1-eee72353d0d7) `![Icon_Map_Pointer-float](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/5afc7458-f000-48f4-bdd1-eee72353d0d7)`
