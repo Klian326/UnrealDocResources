@@ -3,6 +3,7 @@
 ## Common
 v͟o͟i͟d͟ 
 * ![DelegateIcon](https://github.com/Klian326/UnrealDocResources/assets/48155922/65fa1c55-284c-4fe8-b622-eb1fe1aec229) `![DelegateIcon](https://github.com/Klian326/UnrealDocResources/assets/48155922/65fa1c55-284c-4fe8-b622-eb1fe1aec229)`
+* ![FuncIcon](https://github.com/Klian326/UnrealDocResources/assets/48155922/42d8b4fe-6517-47a3-8724-82ceb2d98e0f) `![FuncIcon](https://github.com/Klian326/UnrealDocResources/assets/48155922/42d8b4fe-6517-47a3-8724-82ceb2d98e0f)`
 
 ## Property
 * ![Icon_Bool](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/e01833b4-e61e-46cc-925f-050b7dc798e7) `![Icon_Bool](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/e01833b4-e61e-46cc-925f-050b7dc798e7)`
