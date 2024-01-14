@@ -7,7 +7,8 @@ v͟o͟i͟d͟
 * ![Icon_UuserWidgetIcon](https://github.com/Klian326/UnrealDocResources/assets/48155922/368d8b75-00c3-4e09-a765-cea9751ffa9b) `![UuserWidgetIcon](https://github.com/Klian326/UnrealDocResources/assets/48155922/368d8b75-00c3-4e09-a765-cea9751ffa9b)`
 * ![Icon_UCanvasPanel](https://github.com/Klian326/UnrealDocResources/assets/48155922/dc2d8444-1ce0-4275-bc7f-4729e1a0263d) `![UCanvas](https://github.com/Klian326/UnrealDocResources/assets/48155922/dc2d8444-1ce0-4275-bc7f-4729e1a0263d)`
 * ![Icon_UBorder](https://github.com/Klian326/UnrealDocResources/assets/48155922/092334b8-85a4-4c4f-9e31-16dbf441af19) `![UBorder](https://github.com/Klian326/UnrealDocResources/assets/48155922/092334b8-85a4-4c4f-9e31-16dbf441af19)`
-* ![UBoxSize](https://github.com/Klian326/UnrealDocResources/assets/48155922/2c5f4308-de3e-40fd-8edd-2302659ce24c) `![UBoxSize](https://github.com/Klian326/UnrealDocResources/assets/48155922/2c5f4308-de3e-40fd-8edd-2302659ce24c)`
+* ![Icon_UBoxSize](https://github.com/Klian326/UnrealDocResources/assets/48155922/2c5f4308-de3e-40fd-8edd-2302659ce24c) `![UBoxSize](https://github.com/Klian326/UnrealDocResources/assets/48155922/2c5f4308-de3e-40fd-8edd-2302659ce24c)`
+* ![Icon_UImage](https://github.com/Klian326/UnrealDocResources/assets/48155922/4c3e89f4-2e69-4ed9-8658-4a1c140ebcb1) `![UImage](https://github.com/Klian326/UnrealDocResources/assets/48155922/4c3e89f4-2e69-4ed9-8658-4a1c140ebcb1)`
 
 ## Property
 * ![Icon_Bool](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/e01833b4-e61e-46cc-925f-050b7dc798e7) `![Icon_Bool](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/e01833b4-e61e-46cc-925f-050b7dc798e7)`
