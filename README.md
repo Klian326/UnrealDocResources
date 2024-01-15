@@ -43,7 +43,7 @@ v͟o͟i͟d͟
 ## Map
 * ![Icon_Map_Pointer-float](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/5afc7458-f000-48f4-bdd1-eee72353d0d7) `![Icon_Map_Pointer-float](https://github.com/Klian326/-Public-VRPhysicsBrawl/assets/48155922/5afc7458-f000-48f4-bdd1-eee72353d0d7)`
 * ![Icon_Map_Struct-Pointer](https://github.com/Klian326/UnrealDocResources/assets/48155922/2af81fdf-e42e-4094-a787-9a2710182e60) `![Icon_Map_Struct-Pointer](https://github.com/Klian326/UnrealDocResources/assets/48155922/2af81fdf-e42e-4094-a787-9a2710182e60)`
-
+* ![TMap_String-String](https://github.com/Klian326/UnrealDocResources/assets/48155922/f9730b41-62ae-42a6-ae08-3fd67c269e23) `![TMap_String-String](https://github.com/Klian326/UnrealDocResources/assets/48155922/f9730b41-62ae-42a6-ae08-3fd67c269e23)`
 
 ## Components
 * ![Icon_Comps_CollShape](https://github.com/Klian326/UnrealDocResources/assets/48155922/53859b52-8138-4481-9d6d-8e12a88b4ae0) `![Icon_Comps_CollShape](https://github.com/Klian326/UnrealDocResources/assets/48155922/53859b52-8138-4481-9d6d-8e12a88b4ae0)`
